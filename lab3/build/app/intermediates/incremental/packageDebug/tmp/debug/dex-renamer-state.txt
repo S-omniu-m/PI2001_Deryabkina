@@ -1,4 +1,0 @@
-#Tue Mar 21 22:16:20 MSK 2023
-base.0=C\:\\src\\PI2001_Deryabkina\\lab3\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
-renamed.0=classes.dex
-path.0=classes.dex
